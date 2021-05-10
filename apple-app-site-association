@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+              "appID": "748CDJ9KNG.com.intelity.deeplink",
+              "paths": [
+                "/reservation/*"
+              ]
+            }
+        ]
+    }
+}
